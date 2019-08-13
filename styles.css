@@ -1,0 +1,24 @@
+
+
+body{
+  background: rgb(41,128,185);
+  }
+  *{
+    text-align: center;
+}
+.button, .button-correct{
+  background-color: white;
+  width:100px;
+  height:100px;
+  border: 10px;
+  margin: 10px;
+}
+.button:active{
+  background-color: red;
+}
+.button-correct:active{
+  background-color: green;
+}
+.red{
+  background-color: red;
+}
